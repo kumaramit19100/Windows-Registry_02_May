@@ -5,3 +5,10 @@ E:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\obj\Debug\Windows
 E:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\obj\Debug\WindowsRegistry_07.csproj.CoreCompileInputs.cache
 E:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\obj\Debug\WindowsRegistry_07.exe
 E:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\obj\Debug\WindowsRegistry_07.pdb
+D:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\bin\Debug\WindowsRegistry_07.exe.config
+D:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\bin\Debug\WindowsRegistry_07.exe
+D:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\bin\Debug\WindowsRegistry_07.pdb
+D:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\obj\Debug\WindowsRegistry_07.csproj.AssemblyReference.cache
+D:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\obj\Debug\WindowsRegistry_07.csproj.CoreCompileInputs.cache
+D:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\obj\Debug\WindowsRegistry_07.exe
+D:\repos\WindowsRegistry\WindowsRegistry_07\WindowsRegistry_07\obj\Debug\WindowsRegistry_07.pdb

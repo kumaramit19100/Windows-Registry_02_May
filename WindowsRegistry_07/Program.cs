@@ -15,12 +15,23 @@ namespace WindowsRegistry_07
             var val = registryKey.GetValueNames();
             foreach(var v in val)
             {
-                Console.WriteLine(v);
+                Console.WriteLine("Value Name : "+v);
             }
 
             var val2 = registryKey.GetValue("TEMP");
-            Console.WriteLine(val2.ToString());
+            Console.WriteLine("Value is : "+val2.ToString());
+            Console.WriteLine("------------------------------------------------------------------------------------------");
+            
+            
 
+
+
+
+
+
+            
+            Console.SetWindowSize(90, 33);  ///Set output windows size 
+            //Console.Beep(1000, 10000);  ///a beep sound set on console output
             Console.ReadKey();
         }
     }
